@@ -1,5 +1,4 @@
-# omni_device_huawei_dura
-
+# omni_device_huawei_dura-pbrp
 
 The Huawei Y5 2018 lite (codenamed _"dura"_) is a budget smartphone from Huawei.
 It was released in June 2018.
@@ -54,4 +53,4 @@ Minor checks
 - [✅] vibrate
 - [✅] screenshot
 - [✅] partition SD card
-# omni_device_huawei_dura-pbrp
+
